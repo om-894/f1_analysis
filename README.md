@@ -10,3 +10,4 @@
 
 Challenges 
 - normalise points depending on era. make it the modern equivalent
+- sorting out grid positiona gained and lost in a race whilst including DNFs and Retirements.
