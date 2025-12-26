@@ -1,6 +1,6 @@
 # f1_analysis
 
-- How consistently do people overperform in qulifying vs race. who are the biggest overperformers (feature engineer positions gained metric)?
+- How consistently do people overperform in qulifying vs race. who are the biggest overperformers (feature engineer positions gained metric)? What races have the biggest overperformances?
 - biggest underperformers in f1 based on qualifying to race
 - Who OWNED a circuit. best drivers at certain circuits e.g senna at monaco or hamilton at silverstone BUT WHO ELSE has gone unoticed. maybe use average finishing position
 - how does constructer performance affect driver results. are there anomolies e.g raikonnen in 2012
