@@ -7,6 +7,7 @@
 - How much do DNFs distort perceptions of driver performance (may be hard to separate crashes from technical)?
 - Era dominance. How dominant was this driver relative to the races available in their era? wins_per_race = wins / races_started. obviously MS raced alot less than LH and even further back LF raced eeeeeeven less.
 - Fastest lap times for longest serving races like silverstone etc. (find this out by counting number of times a GP appears based on year in the dataframe)
+- Most collisions in a race, potentially driver to havr the most DNFs
 
 Challenges 
 - normalise points depending on era. make it the modern equivalent
