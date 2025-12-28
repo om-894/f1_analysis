@@ -10,6 +10,7 @@
 - Most collisions in a race, potentially driver to havr the most DNFs
 - biggest fastest lap points scorer?
 - Could any drivers who never scored points in their careers have scored points if the modern scoring system had been in place?
+- Race position heatmap of top 10 most f1 race wins winners????
 
 Challenges 
 - normalise points depending on era. make it the modern equivalent and sorting out grid positiona gained and lost in a race whilst including DNFs and Retirements.
