@@ -1,7 +1,6 @@
 # f1_analysis
 
-- How consistently do people overperform in qulifying vs race. who are the biggest overperformers (feature engineer positions gained metric)? What races have the biggest overperformances?
-- biggest underperformers in f1 based on qualifying to race
+- (1) How consistently do people overperform in qulifying vs race. who are the biggest overperformers (feature engineer positions gained metric)? What races have the biggest overperformances? And biggest underperformers in f1 based on qualifying to race
 - Who OWNED a circuit. best drivers at certain circuits e.g senna at monaco or hamilton at silverstone BUT WHO ELSE has gone unoticed. maybe use average finishing position
 - how does constructer performance affect driver results. are there anomolies e.g raikonnen in 2012
 - How much do DNFs distort perceptions of driver performance (may be hard to separate crashes from technical)?
@@ -11,6 +10,7 @@
 - biggest fastest lap points scorer?
 - Could any drivers who never scored points in their careers have scored points if the modern scoring system had been in place?
 - Race position heatmap of top 10 most f1 race wins winners????
+- 2024 season heatmap (unless i can scrape 2025 data)
 
 Challenges 
 - normalise points depending on era. make it the modern equivalent and sorting out grid positiona gained and lost in a race whilst including DNFs and Retirements.
