@@ -1,8 +1,9 @@
 # f1_analysis
 
-- (slide 1) How consistently do people overperform in qulifying vs race. who are the biggest overperformers (feature engineer positions gained metric)? What races have the biggest overperformances? And biggest underperformers in f1 based on qualifying to race
-- (slide 2) Who OWNED a circuit. best drivers at certain circuits e.g senna at monaco or hamilton at silverstone BUT WHO ELSE has gone unoticed. maybe use average finishing position
-- (slide 3)lead into heatmap of all of sennas seasons and percentages of his DNFs in a bar chart.
+- (slide 1) How consistently do people overperform in qulifying vs race. What races have the biggest overperformances? And biggest underperformers in f1 based on qualifying to race
+- (slide 2) Top 15 overperformers and underperformers in f1
+- (slide 3)lead into heatmap of all of sennas seasons and percentages of his DNFs in a bar chart also include salo heatmap
+- (slide 4) Who OWNED a circuit. best drivers at certain circuits e.g senna at monaco or hamilton at silverstone BUT WHO ELSE has gone unoticed. maybe use average finishing position
 - (slide 4)Could any drivers who never scored points in their careers have scored points if the modern scoring system had been in place?
 - (slide ?) how does constructer performance affect driver results. are there anomolies e.g raikonnen in 2012
 - How much do DNFs distort perceptions of driver performance (may be hard to separate crashes from technical)?
