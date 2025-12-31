@@ -5,6 +5,7 @@
 - (slide 3)lead into heatmap of all of sennas seasons and percentages of his DNFs in a bar chart also include salo heatmap
 - (slide 4) Who OWNED a circuit. best drivers at certain circuits e.g senna at monaco or hamilton at silverstone BUT WHO ELSE has gone unoticed. maybe use average finishing position
 - (slide 4)Could any drivers who never scored points in their careers have scored points if the modern scoring system had been in place?
+- (slide 5) Era dominance. How dominant was this driver relative to the races available in their era (regulations years- you can find lists of these)? wins_per_race = wins / races_started. obviously MS raced alot less than LH and even further back LF raced eeeeeeven less.
 - (slide ?) how does constructer performance affect driver results. are there anomolies e.g raikonnen in 2012
 - How much do DNFs distort perceptions of driver performance (may be hard to separate crashes from technical)?
 - Era dominance. How dominant was this driver relative to the races available in their era (regulations years- you can find lists of these)? wins_per_race = wins / races_started. obviously MS raced alot less than LH and even further back LF raced eeeeeeven less.
