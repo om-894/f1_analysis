@@ -15,3 +15,4 @@
 Challenges 
 - normalise points depending on era. make it the modern equivalent and sorting out grid positiona gained and lost in a race whilst including DNFs and Retirements.
 - Stacking the bar chart (having to use index and convert to wide format etc.)
+- splitting the f1 years into eras. theres not technically any defined years for the eras but i tried
