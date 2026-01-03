@@ -6,16 +6,12 @@
 - (slide 4) Who OWNED a circuit. best drivers at certain circuits e.g senna at monaco or hamilton at silverstone BUT WHO ELSE has gone unoticed. maybe use average finishing position
 - (slide 4)Could any drivers who never scored points in their careers have scored points if the modern scoring system had been in place?
 - (slide 5) Era dominance. How dominant was this driver relative to the races available in their era (regulations years- you can find lists of these)? wins_per_race = wins / races_started. obviously MS raced alot less than LH and even further back LF raced eeeeeeven less.
-- (slide ?) how does constructer performance affect driver results. are there anomolies e.g raikonnen in 2012
-- How much do DNFs distort perceptions of driver performance (may be hard to separate crashes from technical)?
-- Era dominance. How dominant was this driver relative to the races available in their era (regulations years- you can find lists of these)? wins_per_race = wins / races_started. obviously MS raced alot less than LH and even further back LF raced eeeeeeven less.
-- Fastest lap times for longest serving races like silverstone etc. (find this out by counting number of times a GP appears based on year in the dataframe)
-- Most collisions in a race, potentially driver to havr the most DNFs
-- biggest fastest lap points scorer?
-- (slide ?)Could any drivers who never scored points in their careers have scored points if the modern scoring system had been in place?
-- Race position heatmap of top 10 most f1 race wins winners????
+- (slide 6) how does constructer performance affect driver results. are there anomolies e.g raikonnen in 2012. whats the biggest percentage differenc based on constuctor teammates
+- (slide 7) Fastest lap times for longest serving races like silverstone etc. (find this out by counting number of times a GP appears based on year in the dataframe). scattergraph would be nice here showing when the circuits changed over the years. Potentially pick circuits which have been there since the start e.g. Monaco, silverstone and visualising when the circuit changes came in. potentially also acknowledge the years that the circuit wasnt on the calendar
+
+
 - 2024 season heatmap (unless i can scrape 2025 data)
 
 Challenges 
 - normalise points depending on era. make it the modern equivalent and sorting out grid positiona gained and lost in a race whilst including DNFs and Retirements.
-- 
+- Stacking the bar chart (having to use index and convert to wide format etc.)
