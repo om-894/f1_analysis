@@ -16,4 +16,4 @@ Challenges
 - normalise points depending on era. make it the modern equivalent and sorting out grid positiona gained and lost in a race whilst including DNFs and Retirements.
 - Stacking the bar chart (having to use index and convert to wide format etc.)
 - splitting the f1 years into eras. theres not technically any defined years for the eras but i tried
-- The lap times from qualifying. Had to replace missing values \N with NaN, then sensure each driver had three quali times.
+- The lap times from qualifying. Had to replace missing values \N with NaN, then sensure each driver had three quali times. data only went from 1994 so had to web scrape all times from the f1 official website using pd.read_html and requests etc.
