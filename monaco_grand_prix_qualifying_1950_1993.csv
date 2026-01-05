@@ -1,0 +1,352 @@
+Pos.,No.,driverName,Team,best_quali_time,Year,RaceId
+1,34,Juan Manuel Fangio,Alfa Romeo,1:50.200,1950,95
+1,2,Juan Manuel Fangio,Mercedes-Benz,1:41.100,1955,136
+1,20,Juan Manuel Fangio,Ferrari,1:44.000,1956,143
+1,32,Juan Manuel Fangio,Maserati,1:42.700,1957,151
+1,30,Tony Brooks,Vanwall,1:39.800,1958,159
+1,30,Stirling Moss,Cooper Climax,1:39.600,1959,169
+1,28,Stirling Moss,Lotus Climax,1:36.300,1960,179
+1,20,Stirling Moss,Lotus Climax,1:39.100,1961,188
+1,18,Jim Clark,Lotus Climax,1:35.400,1962,197
+1,9,Jim Clark,Lotus Climax,1:34.300,1963,205
+1,12,Jim Clark,Lotus Climax,1:34.000,1964,215
+1,3,Graham Hill,BRM,1:32.500,1965,226
+1,4,Jim Clark,Lotus Climax,1:29.900,1966,235
+1,8,Jack Brabham,Brabham Repco,1:27.600,1967,245
+1,9,Graham Hill,Lotus Ford,1:28.200,1968,257
+1,7,Jackie Stewart,Matra Ford,1:24.600,1969,269
+1,21,Jackie Stewart,March Ford,1:24.000,1970,280
+1,11,Jackie Stewart,Tyrrell Ford,1:23.200,1971,293
+1,8,Emerson Fittipaldi,Lotus Ford,1:21.400,1972,305
+1,5,Jackie Stewart,Tyrrell Ford,1:27.500,1973,319
+1,12,Niki Lauda,Ferrari,1:26.300,1974,334
+1,12,Niki Lauda,Ferrari,1:26.400,1975,348
+1,1,Niki Lauda,Ferrari,1:29.650,1976,363
+1,7,John Watson,Brabham Alfa Romeo,1:29.860,1977,379
+1,11,Carlos Reutemann,Ferrari,1:28.340,1978,395
+1,11,Jody Scheckter,Ferrari,1:26.450,1979,413
+1,25,Didier Pironi,Ligier Ford,1:24.813,1980,85
+1,5,Nelson Piquet,Brabham Ford,1:25.710,1981,427
+1,16,Rene Arnoux,Renault,1:23.281,1982,442
+1,15,Alain Prost,Renault,1:24.840,1983,456
+2,28,Rene Arnoux,Ferrari,1:25.182,1983,456
+3,16,Eddie Cheever,Renault,1:26.279,1983,456
+4,27,Patrick Tambay,Ferrari,1:26.298,1983,456
+5,1,Keke Rosberg,Williams Ford,1:26.307,1983,456
+6,5,Nelson Piquet,Brabham BMW,1:27.273,1983,456
+7,22,Andrea de Cesaris,Alfa Romeo,1:27.680,1983,456
+8,2,Jacques Laffite,Williams Ford,1:27.726,1983,456
+9,25,Jean-Pierre Jarier,Ligier Ford,1:27.906,1983,456
+10,35,Derek Warwick,Toleman Hart,1:28.017,1983,456
+11,3,Michele Alboreto,Tyrrell Ford,1:28.256,1983,456
+12,29,Marc Surer,Arrows Ford,1:28.346,1983,456
+13,23,Mauro Baldi,Alfa Romeo,1:28.639,1983,456
+14,12,Nigel Mansell,Lotus Ford,1:28.721,1983,456
+15,30,Chico Serra,Arrows Ford,1:28.784,1983,456
+16,9,Manfred Winkelhock,ATS BMW,1:28.975,1983,456
+17,6,Riccardo Patrese,Brabham BMW,1:29.200,1983,456
+18,26,Raul Boesel,Ligier Ford,1:29.222,1983,456
+19,11,Elio de Angelis,Lotus Renault,1:29.518,1983,456
+20,4,Danny Sullivan,Tyrrell Ford,1:29.530,1983,456
+NC,36,Bruno Giacomelli,Toleman Hart,1:29.552,1983,456
+NC,8,Niki Lauda,McLaren Ford,1:29.898,1983,456
+NC,7,John Watson,McLaren Ford,1:30.283,1983,456
+NC,31,Corrado Fabi,Osella Ford,1:30.495,1983,456
+NC,17,Eliseo Salazar,RAM Ford,1:31.229,1983,456
+NC,32,Piercarlo Ghinzani,Osella Alfa Romeo,1:35.572,1983,456
+1,7,Alain Prost,McLaren TAG,1:22.661,1984,471
+2,12,Nigel Mansell,Lotus Renault,1:22.752,1984,471
+3,28,Rene Arnoux,Ferrari,1:22.935,1984,471
+4,27,Michele Alboreto,Ferrari,1:22.937,1984,471
+5,16,Derek Warwick,Renault,1:23.237,1984,471
+6,15,Patrick Tambay,Renault,1:23.414,1984,471
+7,26,Andrea de Cesaris,Ligier Renault,1:23.578,1984,471
+8,8,Niki Lauda,McLaren TAG,1:23.886,1984,471
+9,1,Nelson Piquet,Brabham BMW,1:23.918,1984,471
+10,6,Keke Rosberg,Williams Honda,1:24.151,1984,471
+11,11,Elio de Angelis,Lotus Renault,1:24.426,1984,471
+12,14,Manfred Winkelhock,ATS BMW,1:24.473,1984,471
+13,19,Ayrton Senna,Toleman Hart,1:25.009,1984,471
+14,22,Riccardo Patrese,Alfa Romeo,1:25.101,1984,471
+15,2,Corrado Fabi,Brabham BMW,1:25.290,1984,471
+16,5,Jacques Laffite,Williams Honda,1:25.719,1984,471
+17,25,Francois Hesnault,Ligier Renault,1:25.815,1984,471
+18,20,Johnny Cecotto,Toleman Hart,1:25.872,1984,471
+19,24,Piercarlo Ghinzani,Osella Alfa Romeo,1:25.877,1984,471
+20,17,Marc Surer,Arrows Ford,1:26.273,1984,471
+21,23,Eddie Cheever,Alfa Romeo,1:26.471,1984,471
+22,18,Thierry Boutsen,Arrows BMW,1:26.514,1984,471
+23,10,Jonathan Palmer,RAM Hart,1:27.458,1984,471
+24,21,Mauro Baldi,Spirit Hart,1:28.360,1984,471
+25,9,Philippe Alliot,RAM Hart,1:29.576,1984,471
+1,12,Ayrton Senna,Lotus Renault,1:20.450,1985,485
+2,5,Nigel Mansell,Williams Honda,1:20.536,1985,485
+3,27,Michele Alboreto,Ferrari,1:20.563,1985,485
+4,23,Eddie Cheever,Alfa Romeo,1:20.729,1985,485
+5,2,Alain Prost,McLaren TAG,1:20.885,1985,485
+6,18,Thierry Boutsen,Arrows BMW,1:21.302,1985,485
+7,6,Keke Rosberg,Williams Honda,1:21.320,1985,485
+8,25,Andrea de Cesaris,Ligier Renault,1:21.347,1985,485
+9,11,Elio de Angelis,Lotus Renault,1:21.465,1985,485
+10,16,Derek Warwick,Renault,1:21.531,1985,485
+11,17,Gerhard Berger,Arrows BMW,1:21.665,1985,485
+12,22,Riccardo Patrese,Alfa Romeo,1:21.813,1985,485
+13,7,Nelson Piquet,Brabham BMW,1:21.817,1985,485
+14,1,Niki Lauda,McLaren TAG,1:21.907,1985,485
+15,28,Stefan Johansson,Ferrari,1:22.635,1985,485
+16,26,Jacques Laffite,Ligier Renault,1:22.880,1985,485
+17,15,Patrick Tambay,Renault,1:22.912,1985,485
+18,3,Martin Brundle,Tyrrell Ford,1:23.827,1985,485
+19,30,Jonathan Palmer,Zakspeed,1:23.840,1985,485
+20,19,Teo Fabi,Toleman Hart,1:23.965,1985,485
+NC,24,Piercarlo Ghinzani,Osella Alfa Romeo,1:24.071,1985,485
+NC,4,Stefan Bellof,Tyrrell Ford,1:24.236,1985,485
+NC,10,Philippe Alliot,RAM Hart,1:24.763,1985,485
+NC,9,Manfred Winkelhock,RAM Hart,1:24.764,1985,485
+NC,8,Francois Hesnault,Brabham BMW,1:25.068,1985,485
+NC,29,Pierluigi Martini,Minardi Motori Moderni,6:41.037,1985,485
+1,1,Alain Prost,McLaren TAG,1:22.627,1986,501
+2,5,Nigel Mansell,Williams Honda,1:23.047,1986,501
+3,12,Ayrton Senna,Lotus Renault,1:23.175,1986,501
+4,27,Michele Alboreto,Ferrari,1:23.904,1986,501
+5,20,Gerhard Berger,Benetton BMW,1:23.960,1986,501
+6,7,Riccardo Patrese,Brabham BMW,1:24.102,1986,501
+7,26,Jacques Laffite,Ligier Renault,1:24.402,1986,501
+8,16,Patrick Tambay,Lola Ford,1:24.686,1986,501
+9,2,Keke Rosberg,McLaren TAG,1:24.701,1986,501
+10,3,Martin Brundle,Tyrrell Renault,1:24.860,1986,501
+11,6,Nelson Piquet,Williams Honda,1:25.287,1986,501
+12,25,Rene Arnoux,Ligier Renault,1:25.538,1986,501
+13,4,Philippe Streiff,Tyrrell Renault,1:25.720,1986,501
+14,18,Thierry Boutsen,Arrows BMW,1:25.832,1986,501
+15,28,Stefan Johansson,Ferrari,1:25.907,1986,501
+16,19,Teo Fabi,Benetton BMW,1:25.926,1986,501
+17,17,Marc Surer,Arrows BMW,1:26.300,1986,501
+18,15,Alan Jones,Lola Ford,1:26.456,1986,501
+19,14,Jonathan Palmer,Zakspeed,1:26.644,1986,501
+20,8,Elio de Angelis,Brabham BMW,1:27.191,1986,501
+21,21,Piercarlo Ghinzani,Osella Alfa Romeo,1:27.288,1986,501
+22,11,Johnny Dumfries,Lotus Renault,1:27.826,1986,501
+23,29,Huub Rothengatter,Zakspeed,1:28.060,1986,501
+24,22,Christian Danner,Osella Alfa Romeo,1:28.132,1986,501
+25,23,Andrea de Cesaris,Minardi Motori Moderni,1:28.962,1986,501
+26,24,Alessandro Nannini,Minardi Motori Moderni,1:29.447,1986,501
+1,5,Nigel Mansell,Williams Honda,1:23.039,1987,514
+2,12,Ayrton Senna,Lotus Honda,1:23.711,1987,514
+3,6,Nelson Piquet,Williams Honda,1:24.755,1987,514
+4,1,Alain Prost,McLaren TAG,1:25.083,1987,514
+5,27,Michele Alboreto,Ferrari,1:26.102,1987,514
+6,18,Eddie Cheever,Arrows Megatron,1:26.175,1987,514
+7,2,Stefan Johansson,McLaren TAG,1:26.317,1987,514
+8,28,Gerhard Berger,Ferrari,1:26.323,1987,514
+9,20,Thierry Boutsen,Benetton Ford,1:26.630,1987,514
+10,7,Riccardo Patrese,Brabham BMW,1:26.763,1987,514
+11,17,Derek Warwick,Arrows Megatron,1:27.294,1987,514
+12,19,Teo Fabi,Benetton Ford,1:27.622,1987,514
+13,24,Alessandro Nannini,Minardi Motori Moderni,1:27.731,1987,514
+14,9,Martin Brundle,Zakspeed,1:27.894,1987,514
+15,3,Jonathan Palmer,Tyrrell Ford,1:28.088,1987,514
+16,21,Alex Caffi,Osella Alfa Romeo,1:28.233,1987,514
+17,11,Satoru Nakajima,Lotus Honda,1:28.890,1987,514
+18,30,Philippe Alliot,Lola Ford,1:29.114,1987,514
+19,16,Ivan Capelli,March Ford,1:29.147,1987,514
+20,26,Piercarlo Ghinzani,Ligier Megatron,1:29.258,1987,514
+21,8,Andrea de Cesaris,Brabham BMW,1:29.827,1987,514
+22,25,Rene Arnoux,Ligier Megatron,1:30.000,1987,514
+23,4,Philippe Streiff,Tyrrell Ford,1:30.143,1987,514
+24,23,Adrian Campos,Minardi Motori Moderni,1:30.805,1987,514
+25,14,Pascal Fabre,AGS Ford,1:31.667,1987,514
+1,12,Ayrton Senna,McLaren Honda,1:23.998,1988,529
+2,11,Alain Prost,McLaren Honda,1:25.425,1988,529
+3,28,Gerhard Berger,Ferrari,1:26.685,1988,529
+4,27,Michele Alboreto,Ferrari,1:27.297,1988,529
+5,5,Nigel Mansell,Williams Judd,1:27.665,1988,529
+6,19,Alessandro Nannini,Benetton Ford,1:27.869,1988,529
+7,17,Derek Warwick,Arrows Megatron,1:27.872,1988,529
+8,6,Riccardo Patrese,Williams Judd,1:28.016,1988,529
+9,18,Eddie Cheever,Arrows Megatron,1:28.227,1988,529
+10,3,Jonathan Palmer,Tyrrell Ford,1:28.358,1988,529
+11,1,Nelson Piquet,Lotus Honda,1:28.403,1988,529
+12,14,Philippe Streiff,AGS Ford,1:28.527,1988,529
+13,30,Philippe Alliot,Lola Ford,1:28.536,1988,529
+14,15,Mauricio Gugelmin,March Judd,1:28.610,1988,529
+15,24,Luis Perez-Sala,Minardi Ford,1:28.625,1988,529
+16,20,Thierry Boutsen,Benetton Ford,1:28.640,1988,529
+17,36,Alex Caffi,Dallara Ford,1:29.075,1988,529
+18,32,Oscar Larrauri,Euro Brun Ford,1:29.093,1988,529
+19,22,Andrea de Cesaris,Rial Ford,1:29.298,1988,529
+20,25,Rene Arnoux,Ligier Judd,1:29.480,1988,529
+21,29,Yannick Dalmas,Lola Ford,1:29.601,1988,529
+22,16,Ivan Capelli,March Judd,1:29.603,1988,529
+23,9,Piercarlo Ghinzani,Zakspeed,1:30.121,1988,529
+24,31,Gabriele Tarquini,Coloni Ford,1:30.252,1988,529
+25,21,Nicola Larini,Osella,1:30.335,1988,529
+26,26,Stefan Johansson,Ligier Judd,1:30.505,1988,529
+27,2,Satoru Nakajima,Lotus Honda,1:30.611,1988,529
+28,10,Bernd Schneider,Zakspeed,1:30.613,1988,529
+29,23,Adrian Campos,Minardi Ford,1:30.793,1988,529
+30,4,Julian Bailey,Tyrrell Ford,1:30.816,1988,529
+1,8,Stefano Modena,Brabham Judd,1:26.957,1989,545
+1,1,Ayrton Senna,McLaren Honda,1:22.308,1989,545
+2,2,Alain Prost,McLaren Honda,1:23.456,1989,545
+2,21,Alex Caffi,Dallara Ford,1:27.098,1989,545
+3,32,Pierre Henri Raphanel,Coloni Ford,1:27.590,1989,545
+3,5,Thierry Boutsen,Williams Renault,1:24.332,1989,545
+4,7,Martin Brundle,Brabham Judd,1:24.580,1989,545
+5,27,Nigel Mansell,Ferrari,1:24.735,1989,545
+5,18,Piercarlo Ghinzani,Osella Ford,1:27.795,1989,545
+6,9,Derek Warwick,Arrows Ford,1:24.791,1989,545
+6,36,Stefan Johansson,Onyx Ford,1:27.821,1989,545
+7,6,Riccardo Patrese,Williams Renault,1:25.021,1989,545
+7,17,Nicola Larini,Osella Ford,1:28.555,1989,545
+8,34,Bernd Schneider,Zakspeed Yamaha,1:28.610,1989,545
+9,37,Bertrand Gachot,Onyx Ford,1:28.897,1989,545
+10,33,Gregor Foitek,Euro Brun Judd,1:29.423,1989,545
+10,22,Andrea de Cesaris,Dallara Ford,1:25.515,1989,545
+11,23,Pierluigi Martini,Minardi Ford,1:26.288,1989,545
+11,39,Volker Weidler,Rial Ford,1:29.498,1989,545
+12,35,Aguri Suzuki,Zakspeed Yamaha,1:30.528,1989,545
+12,4,Michele Alboreto,Tyrrell Ford,1:26.388,1989,545
+13,40,Gabriele Tarquini,AGS Ford,1:26.422,1989,545
+13,41,Joachim Winkelhock,AGS Ford,1:32.274,1989,545
+14,15,Mauricio Gugelmin,March Judd,1:26.522,1989,545
+15,19,Alessandro Nannini,Benetton Ford,1:26.599,1989,545
+16,26,Olivier Grouillard,Ligier Ford,1:26.792,1989,545
+17,30,Philippe Alliot,Lola Lamborghini,1:26.857,1989,545
+19,11,Nelson Piquet,Lotus Judd,1:27.046,1989,545
+20,10,Eddie Cheever,Arrows Ford,1:27.117,1989,545
+21,25,Rene Arnoux,Ligier Ford,1:27.182,1989,545
+22,16,Ivan Capelli,March Judd,1:27.302,1989,545
+23,3,Jonathan Palmer,Tyrrell Ford,1:27.452,1989,545
+24,20,Johnny Herbert,Benetton Ford,1:27.706,1989,545
+25,31,Roberto Moreno,Coloni Ford,1:27.721,1989,545
+26,24,Luis Perez-Sala,Minardi Ford,1:27.786,1989,545
+27,38,Christian Danner,Rial Ford,1:27.910,1989,545
+28,29,Yannick Dalmas,Lola Lamborghini,1:27.946,1989,545
+29,12,Satoru Nakajima,Lotus Judd,1:28.419,1989,545
+1,29,Eric Bernard,Lola Lamborghini,1:27.134,1990,67
+1,27,Ayrton Senna,McLaren Honda,1:21.314,1990,67
+2,30,Aguri Suzuki,Lola Lamborghini,1:27.548,1990,67
+2,1,Alain Prost,Ferrari,1:21.776,1990,67
+3,14,Olivier Grouillard,Osella Ford,1:27.938,1990,67
+3,4,Jean Alesi,Tyrrell Ford,1:21.801,1990,67
+4,6,Riccardo Patrese,Williams Renault,1:22.026,1990,67
+4,33,Roberto Moreno,Euro Brun Judd,1:28.295,1990,67
+5,17,Gabriele Tarquini,AGS Ford,1:28.677,1990,67
+5,28,Gerhard Berger,McLaren Honda,1:22.682,1990,67
+6,5,Thierry Boutsen,Williams Renault,1:22.691,1990,67
+6,18,Yannick Dalmas,AGS Ford,1:30.511,1990,67
+7,34,Claudio Langes,Euro Brun Judd,1:33.195,1990,67
+7,2,Nigel Mansell,Ferrari,1:22.733,1990,67
+8,23,Pierluigi Martini,Minardi Ford,1:23.149,1990,67
+8,31,Bertrand Gachot,Coloni Subaru,1:39.295,1990,67
+9,39,Bruno Giacomelli,Life,1:41.187,1990,67
+9,21,Emanuele Pirro,Dallara Ford,1:23.494,1990,67
+10,20,Nelson Piquet,Benetton Ford,1:23.566,1990,67
+11,12,Martin Donnelly,Lotus Lamborghini,1:23.600,1990,67
+12,22,Andrea de Cesaris,Dallara Ford,1:23.613,1990,67
+13,11,Derek Warwick,Lotus Lamborghini,1:23.656,1990,67
+14,8,Stefano Modena,Brabham Judd,1:23.920,1990,67
+16,19,Alessandro Nannini,Benetton Ford,1:24.139,1990,67
+17,25,Nicola Larini,Ligier Ford,1:24.206,1990,67
+18,26,Philippe Alliot,Ligier Ford,1:24.294,1990,67
+19,24,Paolo Barilla,Minardi Ford,1:24.334,1990,67
+20,35,Gregor Foitek,Onyx Ford,1:24.367,1990,67
+21,3,Satoru Nakajima,Tyrrell Ford,1:24.371,1990,67
+22,10,Alex Caffi,Arrows Ford,1:25.000,1990,67
+23,16,Ivan Capelli,Leyton House Judd,1:25.020,1990,67
+25,7,David Brabham,Brabham Judd,1:25.420,1990,67
+26,36,Jyrki Jarvilehto,Onyx Ford,1:25.508,1990,67
+27,9,Michele Alboreto,Arrows Ford,1:25.622,1990,67
+29,15,Mauricio Gugelmin,Leyton House Judd,1:26.192,1990,67
+1,1,Ayrton Senna,McLaren Honda,1:20.344,1991,562
+1,22,Jyrki Jarvilehto,Dallara Judd,1:23.260,1991,562
+2,4,Stefano Modena,Tyrrell Honda,1:20.809,1991,562
+2,33,Andrea de Cesaris,Jordan Ford,1:23.538,1991,562
+3,6,Riccardo Patrese,Williams Renault,1:20.973,1991,562
+3,21,Emanuele Pirro,Dallara Judd,1:24.421,1991,562
+4,20,Nelson Piquet,Benetton Ford,1:21.159,1991,562
+4,32,Bertrand Gachot,Jordan Ford,1:24.802,1991,562
+5,5,Nigel Mansell,Williams Renault,1:21.205,1991,562
+5,34,Nicola Larini,Lambo Lamborghini,1:25.893,1991,562
+6,2,Gerhard Berger,McLaren Honda,1:21.222,1991,562
+6,35,Eric van de Poele,Lambo Lamborghini,1:26.282,1991,562
+7,27,Alain Prost,Ferrari,1:21.455,1991,562
+7,31,Pedro Chaves,Coloni Ford,1:27.389,1991,562
+8,19,Roberto Moreno,Benetton Ford,1:21.804,1991,562
+8,14,Olivier Grouillard,Fondmetal Ford,1:27.759,1991,562
+9,28,Jean Alesi,Ferrari,1:21.910,1991,562
+11,3,Satoru Nakajima,Tyrrell Honda,1:22.972,1991,562
+14,23,Pierluigi Martini,Minardi Ferrari,1:23.064,1991,562
+15,15,Mauricio Gugelmin,Leyton House Ilmor,1:23.394,1991,562
+16,25,Thierry Boutsen,Ligier Lamborghini,1:23.431,1991,562
+17,24,Gianni Morbidelli,Minardi Ferrari,1:23.584,1991,562
+18,16,Ivan Capelli,Leyton House Ilmor,1:23.642,1991,562
+19,30,Aguri Suzuki,Lola Ford,1:23.898,1991,562
+20,17,Gabriele Tarquini,AGS Ford,1:23.909,1991,562
+21,29,Eric Bernard,Lola Ford,1:24.079,1991,562
+22,8,Mark Blundell,Brabham Yamaha,1:24.109,1991,562
+23,26,Erik Comas,Ligier Lamborghini,1:24.151,1991,562
+25,9,Michele Alboreto,Footwork Porsche,1:24.606,1991,562
+26,11,Mika Hakkinen,Lotus Judd,1:24.829,1991,562
+27,7,Martin Brundle,Brabham Yamaha,1:24.840,1991,562
+28,12,Julian Bailey,Lotus Judd,1:26.995,1991,562
+29,18,Fabrizio Barbazza,AGS Ford,1:27.079,1991,562
+1,9,Michele Alboreto,Footwork Mugen Honda,1:25.413,1992,579
+1,5,Nigel Mansell,Williams Renault,1:19.495,1992,579
+2,6,Riccardo Patrese,Williams Renault,1:20.368,1992,579
+2,29,Bertrand Gachot,Venturi Lamborghini,1:25.980,1992,579
+3,1,Ayrton Senna,McLaren Honda,1:20.608,1992,579
+3,34,Roberto Moreno,Moda Judd,1:27.186,1992,579
+4,14,Andrea Chiesa,Fondmetal Ford,1:27.756,1992,579
+4,27,Jean Alesi,Ferrari,1:20.895,1992,579
+5,2,Gerhard Berger,McLaren Honda,1:21.224,1992,579
+5,30,Ukyo Katayama,Venturi Lamborghini,1:28.310,1992,579
+6,19,Michael Schumacher,Benetton Ford,1:21.831,1992,579
+6,35,Perry McCarthy,Moda Judd,7:05.924,1992,579
+7,20,Martin Brundle,Benetton Ford,1:22.068,1992,579
+8,28,Ivan Capelli,Ferrari,1:22.119,1992,579
+9,12,Johnny Herbert,Lotus Ford,1:22.579,1992,579
+10,4,Andrea de Cesaris,Tyrrell Ilmor,1:22.647,1992,579
+12,24,Gianni Morbidelli,Minardi Lamborghini,1:22.733,1992,579
+13,33,Mauricio Gugelmin,Jordan Yamaha,1:22.863,1992,579
+14,11,Mika Hakkinen,Lotus Ford,1:22.886,1992,579
+16,16,Karl Wendlinger,March Ilmor,1:23.264,1992,579
+17,23,Christian Fittipaldi,Minardi Lamborghini,1:23.487,1992,579
+18,22,Pierluigi Martini,Dallara Ferrari,1:23.508,1992,579
+19,10,Aguri Suzuki,Footwork Mugen Honda,1:23.641,1992,579
+20,21,Jyrki Jarvilehto,Dallara Ferrari,1:23.862,1992,579
+21,32,Stefano Modena,Jordan Yamaha,1:23.890,1992,579
+22,25,Thierry Boutsen,Ligier Renault,1:23.909,1992,579
+23,26,Erik Comas,Ligier Renault,1:23.974,1992,579
+24,3,Olivier Grouillard,Tyrrell Ilmor,1:23.990,1992,579
+25,15,Gabriele Tarquini,Fondmetal Ford,1:24.479,1992,579
+27,7,Eric van de Poele,Brabham Judd,1:24.981,1992,579
+28,8,Damon Hill,Brabham Judd,1:25.394,1992,579
+30,17,Paul Belmondo,March Ilmor,1:25.750,1992,579
+1,2,Alain Prost,Williams Renault,1:20.557,1993,595
+2,5,Michael Schumacher,Benetton Ford,1:21.190,1993,595
+3,8,Ayrton Senna,McLaren Ford,1:21.552,1993,595
+4,0,Damon Hill,Williams Renault,1:21.825,1993,595
+5,27,Jean Alesi,Ferrari,1:21.948,1993,595
+6,6,Riccardo Patrese,Benetton Ford,1:22.117,1993,595
+7,28,Gerhard Berger,Ferrari,1:22.394,1993,595
+8,29,Karl Wendlinger,Sauber,1:22.477,1993,595
+9,7,Michael Andretti,McLaren Ford,1:22.994,1993,595
+10,20,Erik Comas,Larrousse Lamborghini,1:23.246,1993,595
+11,30,Jyrki Jarvilehto,Sauber,1:23.715,1993,595
+12,9,Derek Warwick,Footwork Mugen Honda,1:23.749,1993,595
+13,25,Martin Brundle,Ligier Renault,1:23.786,1993,595
+14,12,Johnny Herbert,Lotus Ford,1:23.812,1993,595
+15,19,Philippe Alliot,Larrousse Lamborghini,1:23.907,1993,595
+16,14,Rubens Barrichello,Jordan Hart,1:24.086,1993,595
+17,23,Christian Fittipaldi,Minardi Ford,1:24.298,1993,595
+18,10,Aguri Suzuki,Footwork Mugen Honda,1:24.524,1993,595
+19,4,Andrea de Cesaris,Tyrrell Yamaha,1:24.544,1993,595
+20,11,Alessandro Zanardi,Lotus Ford,1:24.888,1993,595
+21,26,Mark Blundell,Ligier Renault,1:24.972,1993,595
+22,3,Ukyo Katayama,Tyrrell Yamaha,1:25.236,1993,595
+23,15,Thierry Boutsen,Jordan Hart,1:25.267,1993,595
+24,21,Michele Alboreto,Lola Ferrari,1:26.444,1993,595
+25,24,Fabrizio Barbazza,Minardi Ford,1:26.582,1993,595
+26,22,Luca Badoer,Lola Ferrari,1:29.613,1993,595
