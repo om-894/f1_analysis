@@ -9,7 +9,7 @@ Small analysis project built around historical Formula 1 results and qualifying 
 Scrapes qualifying lap-time data that is missing from the raw dataset (notably pre-1994 qualifying times).  
 Produces cleaned qualifying-time tables that can be merged into the main dataset.
 
-### `dataset_creation.ipynb`  
+### `analysis_and_visualisation_of_f1_data.ipynb`  
 Loads raw F1 datasets from `data_raw/` together with any scraped qualifying-time outputs.  
 Cleans and normalizes fields (for example: missing values such as `\N`, consistent qualifying-time columns).  
 Builds analysis-ready tables and exports CSV files.
@@ -26,6 +26,7 @@ Raw source tables including:
 - drivers  
 - constructors  
 - standings  
+Data can be downloaded here: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020 (universal license)
 
 ## Outputs
 
